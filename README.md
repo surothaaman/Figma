@@ -203,8 +203,9 @@ background: url(seclogo.png);
 ## OUTPUT:
 ![Screenshot (116)](https://github.com/surothaaman/Figma/assets/133313653/cb08633c-1d06-4532-847a-0671f1b63d88)
 
-![Uploading Screenshot (117).png…]()
-![Uploading Screenshot (118).png…]()
+![Screenshot (117)](https://github.com/surothaaman/Figma/assets/133313653/30efa9a3-38b0-46b6-ae44-63a96b04247f)
+![Screenshot (118)](https://github.com/surothaaman/Figma/assets/133313653/1b3358dd-d019-4078-b1e1-4dc3cdaececf)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
